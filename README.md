@@ -1,4 +1,4 @@
-# Wello World
+# Hello World
 
 Submission for Sugar Labs beginner assignment
 
